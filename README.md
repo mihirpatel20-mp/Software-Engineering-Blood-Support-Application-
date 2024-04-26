@@ -6,7 +6,7 @@ Welcome to the README for the software engineering project of OctoFlex Technolog
 OctoFlex Technologies Inc. is a startup company dedicated to providing innovative solutions for managing blood donation processes. The Blood Support+ Website Application aims to streamline the process of blood donation and recipient management.
 
 ## Project Documents
-1. [Software Process Model](1-SOFTWARE PROCESS MODEL.docx)
+1. [Software Process Model](1-SOFTWARE_PROCESS_MODEL.docx)
 2. [Software Testing](2-SOFTWARE_TESTING.docx)
 3. [Software Evolution](3-SOFTWARE_EVOLUTION.docx)
 4. [Security Engineering](4-SECURITY_ENGINEERING.docx)
