@@ -7,13 +7,13 @@ OctoFlex Technologies Inc. is a startup company dedicated to providing innovativ
 
 ## Project Documents
 1. [Software Process Model](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/1-SOFTWARE%20PROCESS%20MODEL.docx)
-2. [Software Testing](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/2-SOFTWARE_TESTING.docx)
-3. [Software Evolution](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/3-SOFTWARE_EVOLUTION.docx)
-4. [Security Engineering](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/4-SECURITY_ENGINEERING.docx)
-5. [Software Reuse](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/5-SOFTWARE_REUSE.docx)
-6. [Project Management and Planning](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/6-PROJECT_MANAGEMENT_AND_PLANNING.docx)
-7. [Quality Management](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/7-QUALITY_MANAGEMENT.docx)
-8. [Professional Ethics](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/8-PROFESSIONAL_ETHICS.docx)
+2. [Software Testing](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/2-SOFTWARE%20TESTING.docx)
+3. [Software Evolution](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/3-SOFTWARE%20EVOLUTION.docx)
+4. [Security Engineering](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/4-SECURITY%20ENGINEERING.docx)
+5. [Software Reuse](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/5-SOFTWARE%20REUSE.docx)
+6. [Project Management and Planning](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/6-PROJECT%20MANAGEMENT%20AND%20PLANNING.docx)
+7. [Quality Management](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/7-QUALITY%20MANAGEMENT.docx)
+8. [Professional Ethics](https://github.com/mihirpatel20-mp/Software-Engineering-Blood-Support-Application-/blob/main/8-PROFESSIONAL%20ETHICS.docx)
 
 ## Project Description
 The Blood Support+ Website Application is designed to:
